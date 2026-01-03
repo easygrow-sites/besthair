@@ -1,0 +1,64 @@
+{
+  "services": [
+    {
+      "name": "Women's Haircuts",
+      "slug": "womens-haircuts",
+      "description": "Professional women's haircuts tailored to your style, face shape, and lifestyle. From classic cuts to modern styles."
+    },
+    {
+      "name": "Men's Haircuts",
+      "slug": "mens-haircuts",
+      "description": "Expert men's haircuts including fades, clipper cuts, and scissor work. Professional styling for every occasion."
+    },
+    {
+      "name": "Hair Colouring",
+      "slug": "hair-colouring",
+      "description": "Full colour services including highlights, balayage, ombre, root touch-ups, and fashion colours using premium products."
+    },
+    {
+      "name": "Balayage & Highlights",
+      "slug": "balayage-highlights",
+      "description": "Hand-painted balayage and foil highlights for natural-looking dimension and sun-kissed hair."
+    },
+    {
+      "name": "Hair Extensions",
+      "slug": "hair-extensions",
+      "description": "Premium hair extensions including tape-ins, keratin bonds, and clip-ins for length and volume."
+    },
+    {
+      "name": "Bridal Hair",
+      "slug": "bridal-hair",
+      "description": "Stunning bridal hair styling and updos for your special day. Trials and on-location services available."
+    },
+    {
+      "name": "Hair Treatments",
+      "slug": "hair-treatments",
+      "description": "Restorative hair treatments including keratin smoothing, Olaplex, deep conditioning, and scalp treatments."
+    },
+    {
+      "name": "Blow Dry & Styling",
+      "slug": "blow-dry-styling",
+      "description": "Professional blow dries and styling for any occasion. Sleek, bouncy, or textured styles available."
+    },
+    {
+      "name": "Perms & Waves",
+      "slug": "perms-waves",
+      "description": "Modern perms and wave treatments for long-lasting curls and texture. Digital and traditional perm options."
+    },
+    {
+      "name": "Hair Straightening",
+      "slug": "hair-straightening",
+      "description": "Keratin straightening treatments and Japanese straightening for smooth, frizz-free hair that lasts months."
+    },
+    {
+      "name": "Kids Haircuts",
+      "slug": "kids-haircuts",
+      "description": "Gentle and fun haircuts for children of all ages. Patient stylists who make kids feel comfortable."
+    },
+    {
+      "name": "Formal Hair Styling",
+      "slug": "formal-hair-styling",
+      "description": "Elegant updos and styling for formal events, school formals, and special occasions."
+    }
+  ]
+}
